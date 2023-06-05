@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "bti_sumbar",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
